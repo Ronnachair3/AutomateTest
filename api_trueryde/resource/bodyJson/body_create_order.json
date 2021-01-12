@@ -1,0 +1,87 @@
+{
+  "consignment": "TESTGAME071",
+  "deliveryCriteria": {
+    "advancePaymentRequired": true,
+    "advancePaymentId": "1000Baht",
+    "advancePaymentValue": 1000,
+    "packageSizeId": "s"
+  },
+  "sender": {
+    "storeId": 2020,
+    "chainStoreName": "7-11",
+    "branchName": "TDPK",
+    "name": "เกม ส่งงาน",
+    "phone": "0927967368",
+    "address": "ตลาดพลู ถนนเทอดไท เขตธนบุรี กรุงเทพมหานคร ",
+    "postcode": "10600",
+    "lat": 13.802499,
+    "lng": 100.563179,
+    "pickUpAt": {
+      "start": "2020-12-02T07:00:00.000Z",
+      "end": "2020-12-02T12:00:00.000Z"
+    },
+    "note": "test test"
+  },
+  "recipients": [
+    {
+      "name": "เกม ผู้รับของ",
+      "phone": "0927967368",
+      "address": "True Digital park 101 ถนนสุขุมวิท แขวง บางจาก เขตพระโขนง กรุงเทพมหานคร 10260",
+      "addressTitle": "Seacon",
+      "postcode": "10260",
+      "lat": 13.807939,
+      "lng": 100.560331,
+      "items": [
+          {
+            "productId": "1",
+            "sku": "1",
+            "name": "ไก่บาบีคิว",
+            "description": "ไม่ต้องอุ่น",
+            "price": 210.567,
+            "quantity": 2000,
+            "imageUrl": "https://pbs.twimg.com/media/CwGenX3UAAAcOAA.jpg",
+            "weight": 10,
+            "dimension": {
+              "height": 3,
+              "length": 3,
+              "width": 3
+            }
+          },
+          {
+            "productId": "2",
+            "sku": "2",
+            "name": "หมูปิ้งนมสด",
+            "description": "+ข้าวเหนียว",
+            "price": 50,
+            "quantity": 3,
+            "imageUrl": "",
+            "weight": 20,
+            "dimension": {
+              "height": 5,
+              "length": 5,
+              "width": 5
+            }
+          },
+          {
+            "productId": "3",
+            "sku": "3",
+            "name": "เย็นเย็น หวานเจี๊ยบ",
+            "description": "อุ่นด้วย",
+            "price": 5.0,
+            "quantity": 5,
+            "imageUrl": "https://backend.tops.co.th/media/catalog/product/8/8/8858891301704.jpg",
+            "weight": 20,
+            "dimension": {
+              "height": 5,
+              "length": 5,
+              "width": 5
+            }
+          }
+      ],
+       "payment": {
+        "amount": 370.45
+      },
+      "note": "บ้านสีฟ้า 10 ชั้น"
+    }
+  ]
+}

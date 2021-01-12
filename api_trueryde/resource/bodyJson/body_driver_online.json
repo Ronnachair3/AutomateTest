@@ -1,0 +1,9 @@
+{
+    "status": "ONLINE",
+    "availableServices": ["DELIVERY"],
+    "deliveryCriteria": {
+        "packageSizeId": "m",
+        "advancePaymentId": "1500Baht",
+        "advancePaymentValue": 1500
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "data": {
+        "name": "Test Notification driver Type webView",
+        "notificationType": "webView",
+        "link": "https://trueryde.app/"
+    },
+    "notification": {
+        "title": "Notification driver test",
+        "body": "true ryde 1234567890"
+    },
+    "appCode": "driver",
+    "users": [
+        {
+            "token": "eIBantwtTvSP3rUW04gS9L:APA91bF32tsV8zifdxg4Oc_aNmomqUbLll6GNYPc_Ehx416qJt-N-s15JST5LARsC4WhwbgEvXxVh7vf199sQ70nyiibrcmRA0Y9kt_umB-CC2--wfVSMsSIUuqHy3TUzlOc22H-CyYZ",
+            "userId": "5f34d5c82ac9ae0011ed2ce9"
+        }
+    ]
+}

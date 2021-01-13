@@ -1,0 +1,17 @@
+{
+    "name": "Voucher 100 Discount",
+    "description": "100 Discount (we give customer the premium) with min basket size of 10",
+    "maxUsed": 100,
+    "maxUsedPerDay": 10,
+    "maxUsedPerUser": 1,
+    "startDate": "2020-10-01",
+    "endDate": "2020-10-08",
+    "code": "test100",
+    "discountAmount": 100,
+    "discountType": "bath",
+    "discountVehicle": ["motorcycle", "taxi"],
+    "minPrice": 200,
+    "maxDiscount": 100,
+    "voucherImage": "https://www.zcooby.com/wp-content/uploads/2019/06/True-Ryde-app-for-taxi.jpg",
+    "voucherDetail": "https://trueryde.app/"
+}
